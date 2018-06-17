@@ -1,6 +1,6 @@
 ---
 ID: 1499
-post_title: 'Assignment: My Summer Vacation'
+post_title: 'Assignment: Summer Stories'
 author: Jon
 post_excerpt: ""
 layout: post
